@@ -1,0 +1,1 @@
+print("First program-python print function:-\nIt is declared like this:\nprint('what to print')")
